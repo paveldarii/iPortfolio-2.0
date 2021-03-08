@@ -1,10 +1,16 @@
 import React from "react";
 import "./style.css";
-
-function Hero(props) {
+import profileImg from "./profile.jpg";
+import AnimatedText from "../AnimatedText";
+function Hero() {
   return (
-    <div className="hero text-center" style={{ backgroundImage: `url(${props.backgroundImage})` }}>
-      {props.children}
+    <div id="hero-container">
+      <img src={profileImg} alt="pavel darii" id="hero-img" />
+      <div id="main-text-container">
+        <h1 className="main-text">Hello, I'm Pavel.</h1>
+        <h2 className="main-text">I'm Full Stack Web Developer</h2>
+        <AnimatedText id="home-greeting"></AnimatedText>
+      </div>
     </div>
   );
 }
