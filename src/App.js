@@ -1,11 +1,11 @@
 import React from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import NavTabs from "./components/NavTabs";
-import Home from "./components/pages/Home";
-import About from "./components/pages/About";
-import Resume from "./components/pages/Resume";
-import Contact from "./components/pages/Contact";
-import Portfolio from "./components/pages/Portfolio";
+import Home from "./pages/Home";
+import About from "./pages/About";
+import Resume from "./pages/Resume";
+import Contact from "./pages/Contact";
+import Portfolio from "./pages/Portfolio";
 
 function App() {
   return (
