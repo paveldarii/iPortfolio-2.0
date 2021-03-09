@@ -18,5 +18,9 @@ html,
 
 .main-text {
   font: normal 40px/50px Montserrat, sans-serif;
-  color: rgb(12, 148, 0);
+  color: rgb(161, 161, 161);
+}
+
+#job-name {
+  color: rgb(23, 156, 168);
 }
