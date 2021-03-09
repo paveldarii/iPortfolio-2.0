@@ -1,0 +1,20 @@
+.nav {
+  background: #0e0e0e;
+  color: aquamarine;
+}
+.nav-item {
+  width: 20%;
+  color: #f2aa4cff;
+}
+a {
+  color: aqua;
+}
+.nav-link {
+  background: #0e0e0e;
+  color: tomato;
+  border-color: #0e0e0e;
+}
+.nav-link:hover {
+  color: rgb(245, 133, 114);
+  border-color: #0e0e0e;
+}
