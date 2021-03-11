@@ -4,9 +4,9 @@ import "./style.css";
 function Portfolio() {
   return (
     <div>
-      <section id="portfolio" class="portfolio section-bg">
-        <div class="container">
-          <div class="section-title">
+      <section id="portfolio" className="portfolio section-bg">
+        <div className="container">
+          <div className="section-title">
             <h2>Portfolio</h2>
             <p>
               Press <a href="https://github.com/paveldarii">here</a> to see the
@@ -15,11 +15,11 @@ function Portfolio() {
           </div>
 
           <div
-            class="row portfolio-container"
+            className="row portfolio-container"
             data-aos="fade-up"
             data-aos-delay="100"
           >
-            <div class="col-lg-6 col-md-6 portfolio-item filter-app">
+            <div className="col-lg-6 col-md-6 portfolio-item filter-app">
               <h4>Camping Planner</h4>
               <p>
                 Camping Planner application uses a series of technologies as (
@@ -40,38 +40,38 @@ function Portfolio() {
               </p>
             </div>
 
-            <div class="col-lg-6 col-md-6 portfolio-item ">
-              <div class="portfolio-wrap">
+            <div className="col-lg-6 col-md-6 portfolio-item ">
+              <div className="portfolio-wrap">
                 <img
                   src="assets/img/portfolio/portfolio-3.png"
-                  class="img-fluid"
+                  className="img-fluid"
                   alt="camping planner"
                 />
-                <div class="portfolio-links">
+                <div className="portfolio-links">
                   <a
                     href="assets/img/portfolio/portfolio-3.png"
                     data-gall="portfolioGallery"
-                    class="venobox"
+                    className="venobox"
                     title="camping planner"
                   >
-                    <i class="bx bx-plus"></i>
+                    <i className="bx bx-plus"></i>
                   </a>
                   <a
                     href="https://campingplanner.herokuapp.com/"
                     title="More Details"
                   >
-                    <i class="bx bx-link"></i>
+                    <i className="bx bx-link"></i>
                   </a>
                 </div>
               </div>
             </div>
           </div>
           <div
-            class="row portfolio-container"
+            className="row portfolio-container"
             data-aos="fade-up"
             data-aos-delay="100"
           >
-            <div class="col-lg-6 col-md-6 portfolio-item filter-app">
+            <div className="col-lg-6 col-md-6 portfolio-item filter-app">
               <h4>Your Menu For Today</h4>
               <p>
                 Using Foundation Framework and jQuery, me with other three team
@@ -103,38 +103,38 @@ function Portfolio() {
               </p>
             </div>
 
-            <div class="col-lg-6 col-md-6 portfolio-item ">
-              <div class="portfolio-wrap">
+            <div className="col-lg-6 col-md-6 portfolio-item ">
+              <div className="portfolio-wrap">
                 <img
                   src="assets/img/portfolio/portfolio-2.png"
-                  class="img-fluid"
+                  className="img-fluid"
                   alt="your menu for today site screenshot"
                 />
-                <div class="portfolio-links">
+                <div className="portfolio-links">
                   <a
                     href="assets/img/portfolio/portfolio-2.png"
                     data-gall="portfolioGallery"
-                    class="venobox"
+                    className="venobox"
                     title="Your Menu For Today"
                   >
-                    <i class="bx bx-plus"></i>
+                    <i className="bx bx-plus"></i>
                   </a>
                   <a
                     href="https://thecoaxial.github.io/Your-Menu-for-Today/"
                     title="More Details"
                   >
-                    <i class="bx bx-link"></i>
+                    <i className="bx bx-link"></i>
                   </a>
                 </div>
               </div>
             </div>
           </div>
           <div
-            class="row portfolio-container"
+            className="row portfolio-container"
             data-aos="fade-up"
             data-aos-delay="100"
           >
-            <div class="col-lg-6 col-md-6 portfolio-item filter-app">
+            <div className="col-lg-6 col-md-6 portfolio-item filter-app">
               <h4>Note Taker</h4>
               <p>
                 This application will be used to create, edit, and delete notes
@@ -150,38 +150,38 @@ function Portfolio() {
               </p>
             </div>
 
-            <div class="col-lg-6 col-md-6 portfolio-item ">
-              <div class="portfolio-wrap">
+            <div className="col-lg-6 col-md-6 portfolio-item ">
+              <div className="portfolio-wrap">
                 <img
                   src="assets/img/portfolio/portfolio-4.png"
-                  class="img-fluid"
+                  className="img-fluid"
                   alt="not taker page"
                 />
-                <div class="portfolio-links">
+                <div className="portfolio-links">
                   <a
                     href="assets/img/portfolio/portfolio-4.png"
                     data-gall="portfolioGallery"
-                    class="venobox"
+                    className="venobox"
                     title="Your Menu For Today"
                   >
-                    <i class="bx bx-plus"></i>
+                    <i className="bx bx-plus"></i>
                   </a>
                   <a
                     href="https://serene-lowlands-03678.herokuapp.com/"
                     title="More Details"
                   >
-                    <i class="bx bx-link"></i>
+                    <i className="bx bx-link"></i>
                   </a>
                 </div>
               </div>
             </div>
           </div>
           <div
-            class="row portfolio-container"
+            className="row portfolio-container"
             data-aos="fade-up"
             data-aos-delay="100"
           >
-            <div class="col-lg-6 col-md-6 portfolio-item filter-app">
+            <div className="col-lg-6 col-md-6 portfolio-item filter-app">
               <h4>Team Contact Creator</h4>
               <p>
                 The project is designed for usage by programmers who just got a
@@ -195,27 +195,27 @@ function Portfolio() {
               </p>
             </div>
 
-            <div class="col-lg-6 col-md-6 portfolio-item filter-web">
-              <div class="portfolio-wrap">
+            <div className="col-lg-6 col-md-6 portfolio-item filter-web">
+              <div className="portfolio-wrap">
                 <img
                   src="assets/img/portfolio/portfolio-5.png"
-                  class="img-fluid"
+                  className="img-fluid"
                   alt="team creator"
                 />
-                <div class="portfolio-links">
+                <div className="portfolio-links">
                   <a
                     href="assets/img/portfolio/portfolio-5.png"
                     data-gall="portfolioGallery"
-                    class="venobox"
+                    className="venobox"
                     title="team creator"
                   >
-                    <i class="bx bx-plus"></i>
+                    <i className="bx bx-plus"></i>
                   </a>
                   <a
                     href="https://github.com/paveldarii/team-creator"
                     title="More Details"
                   >
-                    <i class="bx bx-link"></i>
+                    <i className="bx bx-link"></i>
                   </a>
                 </div>
               </div>
