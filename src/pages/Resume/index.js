@@ -1,4 +1,5 @@
 import React from "react";
+import ProgressBar from "../../components/ProgressBar";
 import "./style.css";
 
 function Resume() {
@@ -162,153 +163,19 @@ function Resume() {
 
           <div class="row skills-content">
             <div class="col-lg-6" data-aos="fade-up">
-              <div class="progress">
-                <span class="skill">
-                  HTML <i class="val">95%</i>
-                </span>
-                <div class="progress-bar-wrap">
-                  <div
-                    class="progress-bar"
-                    role="progressbar"
-                    aria-valuenow="95"
-                    aria-valuemin="0"
-                    aria-valuemax="100"
-                  ></div>
-                </div>
-              </div>
-
-              <div class="progress">
-                <span class="skill">
-                  CSS <i class="val">85%</i>
-                </span>
-                <div class="progress-bar-wrap">
-                  <div
-                    class="progress-bar"
-                    role="progressbar"
-                    aria-valuenow="85"
-                    aria-valuemin="0"
-                    aria-valuemax="100"
-                  ></div>
-                </div>
-              </div>
-              <div class="progress">
-                <span class="skill">
-                  Bootstrap <i class="val">80%</i>
-                </span>
-                <div class="progress-bar-wrap">
-                  <div
-                    class="progress-bar"
-                    role="progressbar"
-                    aria-valuenow="80"
-                    aria-valuemin="0"
-                    aria-valuemax="100"
-                  ></div>
-                </div>
-              </div>
-              <div class="progress">
-                <span class="skill">
-                  JavaScript/Node <i class="val">85%</i>
-                </span>
-                <div class="progress-bar-wrap">
-                  <div
-                    class="progress-bar"
-                    role="progressbar"
-                    aria-valuenow="85"
-                    aria-valuemin="0"
-                    aria-valuemax="100"
-                  ></div>
-                </div>
-              </div>
-              <div class="progress">
-                <span class="skill">
-                  jQuery <i class="val">90%</i>
-                </span>
-                <div class="progress-bar-wrap">
-                  <div
-                    class="progress-bar"
-                    role="progressbar"
-                    aria-valuenow="90"
-                    aria-valuemin="0"
-                    aria-valuemax="100"
-                  ></div>
-                </div>
-              </div>
+              <ProgressBar title="HTML" progress={90} color="#00FF00" />
+              <ProgressBar title="Sass / CSS" progress={85} />
+              <ProgressBar title="Bootstrap" progress={95} color="#00FF00" />
+              <ProgressBar title="JS / Node" progress={90} color="#00FF00" />
+              <ProgressBar title="JQuery" progress={90} color="#00FF00" />
             </div>
 
             <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-              <div class="progress">
-                <span class="skill">
-                  Handlebars <i class="val">80%</i>
-                </span>
-                <div class="progress-bar-wrap">
-                  <div
-                    class="progress-bar"
-                    role="progressbar"
-                    aria-valuenow="80"
-                    aria-valuemin="0"
-                    aria-valuemax="100"
-                  ></div>
-                </div>
-              </div>
-
-              <div class="progress">
-                <span class="skill">
-                  SQL<i class="val">75%</i>
-                </span>
-                <div class="progress-bar-wrap">
-                  <div
-                    class="progress-bar"
-                    role="progressbar"
-                    aria-valuenow="75"
-                    aria-valuemin="0"
-                    aria-valuemax="100"
-                  ></div>
-                </div>
-              </div>
-
-              <div class="progress">
-                <span class="skill">
-                  MongoDB <i class="val">75%</i>
-                </span>
-                <div class="progress-bar-wrap">
-                  <div
-                    class="progress-bar"
-                    role="progressbar"
-                    aria-valuenow="75"
-                    aria-valuemin="0"
-                    aria-valuemax="100"
-                  ></div>
-                </div>
-              </div>
-
-              <div class="progress">
-                <span class="skill">
-                  Express <i class="val">90%</i>
-                </span>
-                <div class="progress-bar-wrap">
-                  <div
-                    class="progress-bar"
-                    role="progressbar"
-                    aria-valuenow="90"
-                    aria-valuemin="0"
-                    aria-valuemax="100"
-                  ></div>
-                </div>
-              </div>
-              <div class="progress">
-                <span class="skill">
-                  React <i class="val">75%</i>
-                </span>
-                <div class="progress-bar-wrap">
-                  <div
-                    class="progress-bar"
-                    role="progressbar"
-                    aria-valuenow="75"
-                    aria-valuemin="0"
-                    aria-valuemax="100"
-                  ></div>
-                </div>
-              </div>
+              <ProgressBar title="Handlebars" progress={90} color="#00FF00" />
+              <ProgressBar title="SQL" progress={80} />
+              <ProgressBar title="MongoDB" progress={85} />
+              <ProgressBar title="Express" progress={90} color="#00FF00" />
+              <ProgressBar title="React" progress={85} />
             </div>
           </div>
         </div>
@@ -322,52 +189,12 @@ function Resume() {
 
           <div class="row skills-content">
             <div class="col-lg-6" data-aos="fade-up">
-              <div class="progress">
-                <span class="skill">
-                  Romanian <i class="val">100%</i>
-                </span>
-                <div class="progress-bar-wrap">
-                  <div
-                    class="progress-bar"
-                    role="progressbar"
-                    aria-valuenow="95"
-                    aria-valuemin="0"
-                    aria-valuemax="100"
-                  ></div>
-                </div>
-              </div>
-
-              <div class="progress">
-                <span class="skill">
-                  English <i class="val">95%</i>
-                </span>
-                <div class="progress-bar-wrap">
-                  <div
-                    class="progress-bar"
-                    role="progressbar"
-                    aria-valuenow="95"
-                    aria-valuemin="0"
-                    aria-valuemax="100"
-                  ></div>
-                </div>
-              </div>
+              <ProgressBar title="Romanian" progress={99} color="#00FF00" />
+              <ProgressBar title="English" progress={95} color="#00FF00" />
             </div>
 
             <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-              <div class="progress">
-                <span class="skill">
-                  Russian <i class="val">95%</i>
-                </span>
-                <div class="progress-bar-wrap">
-                  <div
-                    class="progress-bar"
-                    role="progressbar"
-                    aria-valuenow="95"
-                    aria-valuemin="0"
-                    aria-valuemax="100"
-                  ></div>
-                </div>
-              </div>
+              <ProgressBar title="Russian" progress={95} color="#00FF00" />
             </div>
           </div>
         </div>
