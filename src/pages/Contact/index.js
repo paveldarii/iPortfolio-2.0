@@ -1,5 +1,6 @@
 import React from "react";
 import "./style.css";
+
 function Contact(props) {
   return (
     <div id="contact-page">
@@ -11,26 +12,24 @@ function Contact(props) {
           <div className="row" data-aos="fade-in">
             <div className="col-lg-4 offset-md-4  d-flex align-items-stretch">
               <div className="info">
-                <div className="name">
-                  <i className="icofont-name"></i>
+                <div className="email">
+                  <i class="fa fa-user"></i>
                   <h4>Name:</h4>
                   <p>Pavel Darii</p>
                 </div>
-
                 <div className="address">
-                  <i className="icofont-google-map"></i>
+                  <i class="fa fa-map-marker"></i>
                   <h4>Location:</h4>
                   <p>Columbus, Ohio</p>
                 </div>
-
                 <div className="email">
-                  <i className="icofont-envelope"></i>
+                  <i class="fa fa-envelope"></i>
                   <h4>Email:</h4>
                   <p>paveldarii@yahoo.com</p>
                 </div>
 
                 <div className="phone">
-                  <i className="icofont-phone"></i>
+                  <i class="fa fa-phone"></i>
                   <h4>Call:</h4>
                   <p>+1 614 641 3785</p>
                 </div>
