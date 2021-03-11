@@ -13,6 +13,20 @@ function Hero() {
         </h2>
         <AnimatedText id="home-greeting"></AnimatedText>
       </div>
+      <div className="social-links mt-3 text-center">
+        <a href="https://github.com/paveldarii" className="twitter">
+          <i className="icofont-linkedin"></i>
+        </a>
+        <a
+          href="https://www.linkedin.com/in/pavel-darii-0aa546185/"
+          className="linkedin"
+        >
+          <i className="bx bxl-linkedin"></i>
+        </a>
+        <a href="https://www.facebook.com/pavel.darii" className="facebook">
+          <i className="bx bxl-facebook"></i>
+        </a>
+      </div>
     </div>
   );
 }
