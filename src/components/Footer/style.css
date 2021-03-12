@@ -1,9 +1,16 @@
 .footer {
   position: fixed;
-  height: 50px;
+  height: 30px;
   background-color: #0e0e0e;
   bottom: 0px;
   left: 0px;
   right: 0px;
   margin-bottom: 0px;
+}
+.facebook,
+.linkedin,
+.github {
+  width: 20px;
+  padding: 10px;
+  color: tomato;
 }
