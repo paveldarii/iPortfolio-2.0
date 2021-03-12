@@ -7,11 +7,8 @@ function Hero() {
     <div id="hero-container">
       <img src={profileImg} alt="pavel darii" id="hero-img" />
       <div id="main-text-container">
-        <h1 className="main-text">Hi, I'm Pavel, and</h1>
-        <h2 className="main-text">
-          I'm <span id="job-name">Web Developer</span>
-        </h2>
-        <AnimatedText id="home-greeting"></AnimatedText>
+        <h1 className="main-text">Hello, I'm Pavel!</h1>
+        <h2 className="main-text"></h2>
       </div>
       <div className="social-links mt-3 text-center">
         <a href="https://github.com/paveldarii" className="twitter">
