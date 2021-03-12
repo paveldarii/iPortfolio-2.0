@@ -4,7 +4,7 @@ import "./style.css";
 
 function Resume() {
   return (
-    <div>
+    <div id="resume-section">
       <section id="resume" class="resume">
         <div class="container">
           <div class="section-title">
@@ -180,7 +180,6 @@ function Resume() {
           </div>
         </div>
       </section>
-
       <section id="skills" class="skills section-bg">
         <div class="container">
           <div class="section-title">
@@ -199,6 +198,7 @@ function Resume() {
           </div>
         </div>
       </section>
+      <br /> <br />
     </div>
   );
 }
