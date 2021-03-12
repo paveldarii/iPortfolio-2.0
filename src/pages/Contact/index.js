@@ -10,7 +10,7 @@ function Contact(props) {
         </div>
         <div className="container">
           <div className="row" data-aos="fade-in">
-            <div className="col-lg-4 offset-md-4  d-flex align-items-stretch">
+            <div className="col-lg-5 d-flex align-items-stretch">
               <div className="info">
                 <div className="email">
                   <i className="fa fa-user"></i>
