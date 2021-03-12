@@ -9,11 +9,15 @@ function NavTabs() {
   const location = useLocation();
 
   return (
-    <ul className="nav nav-tabs">
+    <ul className="nav nav-tabs ">
       <li className="nav-item">
         <Link
           to="/"
-          className={location.pathname === "/" ? "nav-link active" : "nav-link"}
+          className={
+            location.pathname === "/"
+              ? "nav-link bg-dark text-white "
+              : "nav-link"
+          }
         >
           Home
         </Link>
@@ -22,7 +26,9 @@ function NavTabs() {
         <Link
           to="/about"
           className={
-            location.pathname === "/about" ? "nav-link active" : "nav-link"
+            location.pathname === "/about"
+              ? "nav-link bg-dark text-light "
+              : "nav-link"
           }
         >
           About
@@ -32,7 +38,9 @@ function NavTabs() {
         <Link
           to="/resume"
           className={
-            location.pathname === "/resume" ? "nav-link active" : "nav-link"
+            location.pathname === "/resume"
+              ? "nav-link bg-dark text-light "
+              : "nav-link"
           }
         >
           Resume
@@ -42,7 +50,9 @@ function NavTabs() {
         <Link
           to="/portfolio"
           className={
-            location.pathname === "/portfolio" ? "nav-link active" : "nav-link"
+            location.pathname === "/portfolio"
+              ? "nav-link bg-dark text-light "
+              : "nav-link"
           }
         >
           Portfolio
@@ -52,7 +62,9 @@ function NavTabs() {
         <Link
           to="/contact"
           className={
-            location.pathname === "/contact" ? "nav-link active" : "nav-link"
+            location.pathname === "/contact"
+              ? "nav-link bg-dark text-light "
+              : "nav-link"
           }
         >
           Contact
