@@ -1,9 +1,12 @@
 import React from "react";
 import "./style.css";
-
+import img3 from "../../portfolio/portfolio-3.png";
+import img2 from "../../portfolio/portfolio-2.png";
+import img4 from "../../portfolio/portfolio-4.png";
+import img5 from "../../portfolio/portfolio-5.png";
 function Portfolio() {
   return (
-    <div>
+    <div id="portfolio-section">
       <section id="portfolio" className="portfolio section-bg">
         <div className="container">
           <div className="section-title">
@@ -42,11 +45,7 @@ function Portfolio() {
 
             <div className="col-lg-6 col-md-6 portfolio-item ">
               <div className="portfolio-wrap">
-                <img
-                  src="assets/img/portfolio/portfolio-3.png"
-                  className="img-fluid"
-                  alt="camping planner"
-                />
+                <img src={img3} className="img-fluid" alt="camping planner" />
                 <div className="portfolio-links">
                   <a
                     href="assets/img/portfolio/portfolio-3.png"
@@ -106,7 +105,7 @@ function Portfolio() {
             <div className="col-lg-6 col-md-6 portfolio-item ">
               <div className="portfolio-wrap">
                 <img
-                  src="assets/img/portfolio/portfolio-2.png"
+                  src={img2}
                   className="img-fluid"
                   alt="your menu for today site screenshot"
                 />
@@ -152,11 +151,7 @@ function Portfolio() {
 
             <div className="col-lg-6 col-md-6 portfolio-item ">
               <div className="portfolio-wrap">
-                <img
-                  src="assets/img/portfolio/portfolio-4.png"
-                  className="img-fluid"
-                  alt="not taker page"
-                />
+                <img src={img4} className="img-fluid" alt="not taker page" />
                 <div className="portfolio-links">
                   <a
                     href="assets/img/portfolio/portfolio-4.png"
@@ -197,11 +192,7 @@ function Portfolio() {
 
             <div className="col-lg-6 col-md-6 portfolio-item filter-web">
               <div className="portfolio-wrap">
-                <img
-                  src="assets/img/portfolio/portfolio-5.png"
-                  className="img-fluid"
-                  alt="team creator"
-                />
+                <img src={img5} className="img-fluid" alt="team creator" />
                 <div className="portfolio-links">
                   <a
                     href="assets/img/portfolio/portfolio-5.png"
