@@ -1,21 +1,26 @@
 import React from "react";
 import ProgressBar from "../../components/ProgressBar";
 import "./style.css";
-
+import Wrapper from "../../components/Wrapper";
 function Resume() {
   return (
     <div id="resume-section">
       <section id="resume" class="resume">
         <div class="container">
           <div class="section-title">
-            <h2>Resume</h2>
-            <p>
-              Click{" "}
-              <a href="../Pavel_Darii.pdf" target="_black">
-                here
-              </a>{" "}
-              to download pdf version of my resume.{" "}
-            </p>
+            <Wrapper>
+              <h2>Resume</h2>
+            </Wrapper>
+            <Wrapper>
+              {" "}
+              <p>
+                Click{" "}
+                <a href="../Pavel_Darii.pdf" target="_black">
+                  here
+                </a>{" "}
+                to download pdf version of my resume.{" "}
+              </p>
+            </Wrapper>
           </div>
 
           <div class="row">
