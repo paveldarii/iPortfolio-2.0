@@ -12,7 +12,7 @@
 
 ## Description
 
-Deployed link: [https://paveldarii.github.io/iPortfolio-2.0/](https://paveldarii.github.io/iPortfolio-2.0/)
+Deployed link: [https://paveldarii.github.io/](https://paveldarii.github.io/iPortfolio-2.0/)
 
 iPortfolio 2.0 is created with Node/React.
 
