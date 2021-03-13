@@ -12,11 +12,17 @@
 
 ## Description
 
-true
+iPortfolio 2.0 is created with Node/React.
+
+This site has most of the data which a potential employer might want to know.
 
 ## Usage
 
-true
+Some ideas about how the site looks and what how it can be used is represented in pictures bellow.
+
+![resume](screenshots/resume-page.png)
+
+![portfolio](screenshots/portfolio)
 
 ## Questions
 
