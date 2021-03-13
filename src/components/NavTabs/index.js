@@ -12,9 +12,9 @@ function NavTabs() {
     <ul className="nav nav-tabs ">
       <li className="nav-item">
         <Link
-          to="/"
+          to="/iPortfolio-2.0"
           className={
-            location.pathname === "iPortfolio-2.0/"
+            location.pathname === "/iPortfolio-2.0"
               ? "nav-link bg-dark text-white "
               : "nav-link"
           }
