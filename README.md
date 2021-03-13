@@ -20,9 +20,13 @@ This site has most of the data which a potential employer might want to know.
 
 Some ideas about how the site looks and what how it can be used is represented in pictures bellow.
 
+Resume page
+
 ![resume](screenshots/resume-page.png)
 
-![portfolio](screenshots/portfolio)
+Portfolio page
+
+![portfolio](screenshots/portfolio.png)
 
 ## Questions
 
