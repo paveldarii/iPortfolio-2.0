@@ -10,17 +10,15 @@ html,
 }
 
 #main-text-container {
-  float: left;
-  padding: 25px;
-}
-#hero-container {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
 }
 
 .main-text {
   font: normal 40px/50px Montserrat, sans-serif;
-  color: rgb(188, 141, 79);
-}
-
-#job-name {
-  color: #f2aa4cff;
+  color: rgb(110, 238, 117);
 }
