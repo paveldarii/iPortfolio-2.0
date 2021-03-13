@@ -14,7 +14,7 @@ function NavTabs() {
         <Link
           to="/"
           className={
-            location.pathname === "/"
+            location.pathname === "iPortfolio-2.0/"
               ? "nav-link bg-dark text-white "
               : "nav-link"
           }
