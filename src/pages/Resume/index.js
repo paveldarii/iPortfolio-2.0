@@ -30,13 +30,8 @@ function Resume() {
                 <h4>Pavel Darii</h4>
                 <p>
                   <em>
-                    Hey, I'm looking for a Full Stack Web Development position.
-                    Offer me an interview opportunity and I will demonstrate
-                    that I am a good fit for your company. I learn quickly, I am
-                    proactive, I have good mental ability to create algorithms.
-                    Also, when I work on a Web Site I think about user
-                    experience, company profitability, security, performance,
-                    architecture scalability, best practices. <br />
+                    I'm looking for a Full Stack Web Development position.
+                    <br />
                   </em>
                 </p>
                 <br />
@@ -88,7 +83,7 @@ function Resume() {
                 <p>
                   <em>Polar Cleaning LLC, Columbus</em>
                 </p>
-                <p>I'm creating React site of Polar Cleaning LLC.</p>
+                <p>I'm creating React site for Polar Cleaning LLC.</p>
               </div>
               <div class="resume-item">
                 <h4>Information Technology Specialist</h4>
