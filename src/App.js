@@ -13,10 +13,10 @@ function App() {
     <Router>
       <NavTabs />
       <Route exact path="/iPortfolio-2.0" component={Home} />
-      <Route exact path="/about" component={About} />
-      <Route exact path="/resume" component={Resume} />
-      <Route exact path="/contact" component={Contact} />
-      <Route exact path="/portfolio" component={Portfolio} />
+      <Route exact path="/iPortfolio-2.0/about" component={About} />
+      <Route exact path="/iPortfolio-2.0/resume" component={Resume} />
+      <Route exact path="/iPortfolio-2.0/contact" component={Contact} />
+      <Route exact path="/iPortfolio-2.0/portfolio" component={Portfolio} />
       <Footer />
     </Router>
   );
