@@ -24,9 +24,9 @@ function NavTabs() {
       </li>
       <li className="nav-item">
         <Link
-          to="/about"
+          to="/iPortfolio-2.0/about"
           className={
-            location.pathname === "/about"
+            location.pathname === "/iPortfolio-2.0/about"
               ? "nav-link bg-dark text-light "
               : "nav-link"
           }
@@ -36,9 +36,9 @@ function NavTabs() {
       </li>
       <li className="nav-item">
         <Link
-          to="/resume"
+          to="/iPortfolio-2.0/resume"
           className={
-            location.pathname === "/resume"
+            location.pathname === "/iPortfolio-2.0/resume"
               ? "nav-link bg-dark text-light "
               : "nav-link"
           }
@@ -48,9 +48,9 @@ function NavTabs() {
       </li>
       <li className="nav-item">
         <Link
-          to="/portfolio"
+          to="/iPortfolio-2.0/portfolio"
           className={
-            location.pathname === "/portfolio"
+            location.pathname === "/iPortfolio-2.0/portfolio"
               ? "nav-link bg-dark text-light "
               : "nav-link"
           }
@@ -60,9 +60,9 @@ function NavTabs() {
       </li>
       <li className="nav-item">
         <Link
-          to="/contact"
+          to="/iPortfolio-2.0/contact"
           className={
-            location.pathname === "/contact"
+            location.pathname === "/iPortfolio-2.0/contact"
               ? "nav-link bg-dark text-light "
               : "nav-link"
           }
