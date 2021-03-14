@@ -18,7 +18,7 @@ function About() {
             <iframe
               width="760"
               height="428"
-              src="https://www.youtube.com/embed/ZEyAs3NWH4A"
+              src="https://www.youtube.com/embed/6rRlB9LFhO0"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowfullscreen
