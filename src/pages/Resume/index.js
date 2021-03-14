@@ -2,6 +2,7 @@ import React from "react";
 import ProgressBar from "../../components/ProgressBar";
 import "./style.css";
 import Wrapper from "../../components/Wrapper";
+import pdfResume from "../../Pavel_Darii.pdf";
 function Resume() {
   return (
     <div id="resume-section">
@@ -15,7 +16,7 @@ function Resume() {
               {" "}
               <p>
                 Click{" "}
-                <a href="../Pavel_Darii.pdf" target="_black">
+                <a href={pdfResume} target="_black">
                   here
                 </a>{" "}
                 to download pdf version of my resume.{" "}
