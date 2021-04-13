@@ -31,7 +31,11 @@ function Resume() {
                 <h4>Pavel Darii</h4>
                 <p>
                   <em>
-                    I'm looking for a Full Stack Web Development position.
+                    Full Stack Web Developer adept in offering cutting edge
+                    engineering solutions and effectively guiding developer
+                    teams. Bringing forth expertise in managing all aspects of
+                    the web development life cycle. Skilled in problem solving
+                    and executing software tasks from start to finish.
                     <br />
                   </em>
                 </p>
@@ -79,22 +83,17 @@ function Resume() {
             <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
               <h3 class="resume-title">Professional Experience</h3>
               <div class="resume-item">
-                <h4>Freelance Web Developer</h4>
-                <h5>Jan 2021 - present</h5>
-                <p>
-                  <em>Polar Cleaning LLC, Columbus</em>
-                </p>
-                <p>I'm creating React site for Polar Cleaning LLC.</p>
-              </div>
-              <div class="resume-item">
-                <h4>Information Technology Specialist</h4>
+                <h4>Technology Specialist</h4>
                 <h5>Jun 2019 - Jan 2021</h5>
                 <p>
                   <em>Spectrum, Columbus, Ohio</em>
                 </p>
                 <p>
-                  As a contractor in the Information Technology field, I
-                  installed residential internet, phone, and TV services.
+                  * Installed TV, Internet, and Phone Services <br />
+                  * Resolved every issue to make customer satisfied <br />
+                  * Participated in discussions about how to automate job
+                  allocation <br />
+                  <br />
                 </p>
               </div>
               <div class="resume-item">
@@ -104,52 +103,20 @@ function Resume() {
                   <em>Spectrum, Columbus, Ohio</em>
                 </p>
                 <p>
-                  In January 2019 and February 2019 I was two times employee of
-                  the month by having the most sales from around 100 salesmen.
-                  The whole idea is that in anything I put myself on maximum I
-                  get maximum results, so sales was another confirmation of this
-                  statement.
-                </p>
-              </div>
-              <div class="resume-item">
-                <h4>Barmen</h4>
-                <h5>Oct 2016 - Jan 2017</h5>
-                <p>
-                  <em>Petrosani, Romania</em>
-                </p>
-                <p>Part time</p>
-              </div>
-              <div class="resume-item">
-                <h4>Barmen</h4>
-                <h5>Jun 2016 - Sep 2016</h5>
-                <p>
-                  <em>Costinesti, Romania</em>
-                </p>
-                <p>
-                  The purpose to work here was to earn money for the following
-                  year at the University.
-                </p>
-              </div>
-              <div class="resume-item">
-                <h4>Construction Specialist</h4>
-                <h5>Jun 2014 - Sep 2014</h5>
-                <p>
-                  <em>Moscow, Russia</em>
-                </p>
-                <p>
-                  The purpose to work here was to earn money for next school
-                  year.
-                </p>
-              </div>
-              <div class="resume-item">
-                <h4>Construction Specialist</h4>
-                <h5>Jun 2013 - Sep 2013</h5>
-                <p>
-                  <em>Gelendzhik, Russia</em>
-                </p>
-                <p>
-                  The purpose to work here was to earn money for next school
-                  year.
+                  * In January 2019 and February 2019, two times employee of the
+                  month by having the most sales from around 100 salesmen.
+                  <br />
+                  * Dedication to get achieve top results.
+                  <br />
+                  * Continuous learning.
+                  <br />
+                  * Created new customers and offering great experience.
+                  <br />
+                  * Expressed clearly each idea.
+                  <br />
+                  * Created new ideas on how to interact with potential
+                  customers, and shared them with the team.
+                  <br />
                 </p>
               </div>
             </div>
