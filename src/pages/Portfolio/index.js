@@ -39,7 +39,7 @@ function Portfolio() {
                 and create an equipment list and select certain parks as
                 favorites to store and look back on later."
           github="https://github.com/amcmilne/Camping-Planner"
-          deployed="https://thecoaxial.github.io/Your-Menu-for-Today/"
+          deployed="https://campingplanner.herokuapp.com/"
         />
         <PortfolioCard
           title="Your Menu For Today"
