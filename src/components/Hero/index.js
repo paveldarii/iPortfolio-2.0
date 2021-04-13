@@ -1,7 +1,6 @@
 import React from "react";
 import "./style.css";
 import profileImg from "./profile.jpg";
-import AnimatedText from "../AnimatedText";
 function Hero() {
   return (
     <div>
