@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/iPortfolio-2.0/static/css/main.53f96dbf.chunk.css",
-    "main.js": "/iPortfolio-2.0/static/js/main.1d5ccd25.chunk.js",
-    "main.js.map": "/iPortfolio-2.0/static/js/main.1d5ccd25.chunk.js.map",
+    "main.css": "/iPortfolio-2.0/static/css/main.872eaaa7.chunk.css",
+    "main.js": "/iPortfolio-2.0/static/js/main.72472386.chunk.js",
+    "main.js.map": "/iPortfolio-2.0/static/js/main.72472386.chunk.js.map",
     "runtime-main.js": "/iPortfolio-2.0/static/js/runtime-main.b129e14a.js",
     "runtime-main.js.map": "/iPortfolio-2.0/static/js/runtime-main.b129e14a.js.map",
     "static/css/2.fabbef47.chunk.css": "/iPortfolio-2.0/static/css/2.fabbef47.chunk.css",
-    "static/js/2.c4532ca2.chunk.js": "/iPortfolio-2.0/static/js/2.c4532ca2.chunk.js",
-    "static/js/2.c4532ca2.chunk.js.map": "/iPortfolio-2.0/static/js/2.c4532ca2.chunk.js.map",
+    "static/js/2.11e8c5ab.chunk.js": "/iPortfolio-2.0/static/js/2.11e8c5ab.chunk.js",
+    "static/js/2.11e8c5ab.chunk.js.map": "/iPortfolio-2.0/static/js/2.11e8c5ab.chunk.js.map",
     "index.html": "/iPortfolio-2.0/index.html",
     "static/css/2.fabbef47.chunk.css.map": "/iPortfolio-2.0/static/css/2.fabbef47.chunk.css.map",
-    "static/css/main.53f96dbf.chunk.css.map": "/iPortfolio-2.0/static/css/main.53f96dbf.chunk.css.map",
-    "static/js/2.c4532ca2.chunk.js.LICENSE.txt": "/iPortfolio-2.0/static/js/2.c4532ca2.chunk.js.LICENSE.txt",
-    "static/media/Pavel_Darii.610f1663.pdf": "/iPortfolio-2.0/static/media/Pavel_Darii.610f1663.pdf",
+    "static/css/main.872eaaa7.chunk.css.map": "/iPortfolio-2.0/static/css/main.872eaaa7.chunk.css.map",
+    "static/js/2.11e8c5ab.chunk.js.LICENSE.txt": "/iPortfolio-2.0/static/js/2.11e8c5ab.chunk.js.LICENSE.txt",
+    "static/media/Pavel_Darii.2a60c507.pdf": "/iPortfolio-2.0/static/media/Pavel_Darii.2a60c507.pdf",
+    "static/media/everest.047b38d6.gif": "/iPortfolio-2.0/static/media/everest.047b38d6.gif",
     "static/media/portfolio-2.953a0860.png": "/iPortfolio-2.0/static/media/portfolio-2.953a0860.png",
     "static/media/portfolio-3.0e04806d.png": "/iPortfolio-2.0/static/media/portfolio-3.0e04806d.png",
     "static/media/portfolio-4.37c06909.png": "/iPortfolio-2.0/static/media/portfolio-4.37c06909.png",
@@ -22,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.b129e14a.js",
     "static/css/2.fabbef47.chunk.css",
-    "static/js/2.c4532ca2.chunk.js",
-    "static/css/main.53f96dbf.chunk.css",
-    "static/js/main.1d5ccd25.chunk.js"
+    "static/js/2.11e8c5ab.chunk.js",
+    "static/css/main.872eaaa7.chunk.css",
+    "static/js/main.72472386.chunk.js"
   ]
 }
