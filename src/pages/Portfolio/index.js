@@ -6,6 +6,7 @@ import img3 from "../../portfolio/portfolio-3.png";
 import img2 from "../../portfolio/portfolio-2.png";
 import img4 from "../../portfolio/portfolio-4.png";
 import img5 from "../../portfolio/portfolio-5.png";
+import everest from "../../portfolio/everest.gif";
 function Portfolio() {
   return (
     <div id="portfolio-section">
@@ -20,6 +21,13 @@ function Portfolio() {
       </Wrapper>
 
       <Wrapper>
+        <PortfolioCard
+          title="Everest Time Analyzer"
+          image={everest}
+          description="Everest Time Analyzer is a MERN stack JavaScript application that allows you track the time dedicated to any and all projects that are important to you. It offers features to review how you have spent your time across all of your tasks and projects, offering valuable insights to inform your decisions and guide your plans for the future."
+          github="https://github.com/alane019/goals-productivity-tracker"
+          deployed="https://everest-time-manager.herokuapp.com/"
+        />
         <PortfolioCard
           title="Camping Planner"
           image={img3}
