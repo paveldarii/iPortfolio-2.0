@@ -24,7 +24,10 @@ function Portfolio() {
         <PortfolioCard
           title="Everest Time Analyzer"
           image={everest}
-          description="Everest Time Analyzer is a MERN stack JavaScript application that allows you track the time dedicated to any and all projects that are important to you. It offers features to review how you have spent your time across all of your tasks and projects, offering valuable insights to inform your decisions and guide your plans for the future."
+          description="Everest Time Analyzer is a MERN stack JavaScript application that allows you track the time 
+          dedicated to any and all projects that are important to you. It offers features to review how you have spent 
+          your time across all of your tasks and projects, offering valuable insights to inform your decisions and guide your plans for the future.
+          Technologies: Mongo, Express, React, Node, JWT, Html, Css, and other."
           github="https://github.com/alane019/goals-productivity-tracker"
           deployed="https://everest-time-manager.herokuapp.com/"
         />
