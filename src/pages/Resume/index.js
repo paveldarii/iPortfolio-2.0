@@ -35,7 +35,9 @@ function Resume() {
                     engineering solutions and effectively guiding developer
                     teams. Bringing forth expertise in managing all aspects of
                     the web development life cycle. Skilled in problem solving
-                    and executing software tasks from start to finish.
+                    and executing software tasks from start to finish. Proven
+                    success in planning, executing, and spearheading complex IT
+                    projects within estimated budgetary and time constrains.
                     <br />
                   </em>
                 </p>
